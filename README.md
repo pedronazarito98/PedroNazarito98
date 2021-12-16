@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, Sou Pedro Nazarito, seja bem-vindo!!👋
 
-<!--
-**pedronazarito98/PedroNazarito98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como Desenvolvedor Front-end
+- 🌱 Estou estudando Typescript, NextJs
+- 😄 Pronouns: Ele/dele
+- ⚡ Apaixonado por Css
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/pedronazarito98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedronazarito98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronazarito98&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<!-- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ``
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+ -->
