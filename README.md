@@ -1,8 +1,7 @@
 ### Olá, Sou Pedro Nazarito, seja bem-vindo!!👋
 
 - 🔭 Atualmente trabalho como Desenvolvedor Front-end
-- 🌱 Estou estudando Typescript, NextJs
-- 😄 Pronouns: Ele/dele
+- 🌱 Estou estudando Typescript, NextJs, Clean Code
 - ⚡ Apaixonado por Css
 
 <div align="center">
